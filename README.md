@@ -6,7 +6,7 @@ I'm a beginner JS developer
 
 Latest YT Videos
 
-## Languages and Tools
+### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F2EDE7?style=for-the-badge&logo=javascript)
 ![Vue](https://img.shields.io/badge/-Vue-F2EDE7?style=for-the-badge&logo=vue.js)
