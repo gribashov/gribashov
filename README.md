@@ -6,7 +6,7 @@ I'm a beginner JS developer
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gribashov&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Latest YT Videos
+### Latest YT Videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
