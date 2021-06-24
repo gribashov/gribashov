@@ -13,11 +13,11 @@ Latest YT Videos
 
 ### Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F2EDE7?style=for-the-badge&logo=javascript)
-![Vue](https://img.shields.io/badge/-Vue-F2EDE7?style=for-the-badge&logo=vue.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-5094F0?style=for-the-badge&logo=javascript)
+![Vue](https://img.shields.io/badge/-Vue-5094F0?style=for-the-badge&logo=vue.js)
 
 ### Follow me
 
-[![Youtube](https://img.shields.io/badge/-Youtube-F2EDE7?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCdEluIrJHpAriGUKqg8QA_A)
-[![Instagram](https://img.shields.io/badge/-Instagram-F2EDE7?style=for-the-badge&logo=instagram)](https://instagram.com/sasha_gribash)
-[![Telegram](https://img.shields.io/badge/-Telegram-F2EDE7?style=for-the-badge&logo=telegram)](https://t.me/gribashovdeveloper)
+[![Youtube](https://img.shields.io/badge/-Youtube-5094F0?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCdEluIrJHpAriGUKqg8QA_A)
+[![Instagram](https://img.shields.io/badge/-Instagram-5094F0?style=for-the-badge&logo=instagram)](https://instagram.com/sasha_gribash)
+[![Telegram](https://img.shields.io/badge/-Telegram-5094F0?style=for-the-badge&logo=telegram)](https://t.me/gribashovdeveloper)
