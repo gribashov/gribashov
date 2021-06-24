@@ -1,4 +1,4 @@
-![Header](https://github.com/gribashov/gribashov/blob/main/assets/Frame%208.jpg)
+![Header](https://github.com/gribashov/gribashov/blob/main/assets/ban.jpg)
 
 # Hi there 👋
 
